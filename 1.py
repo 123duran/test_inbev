@@ -4,24 +4,19 @@ def find_lowest_cost_vm(memory_gb, vcpu_cores, os, pricesheet_df, rightsizing_df
     filtered_df = rightsizing_df[(rightsizing_df['memoryInMB'] >= memory_gb * 1024) &
                                  (rightsizing_df['numberOfCores'] >= vcpu_cores) &
                                  (rightsizing_df['armSkuName'].isin(pricesheet_df['meterName'])) &
-                                 (rightsizing_df['meterName'].isin(pricesheet_df['armSkuName'])) &
-                                 (rightsizing_df['osDiskSizeInMB'] > 0) &
-                                 (rightsizing_df['osDiskSizeInMB'] < float('inf')) &
-                                 (rightsizing_df['meterName'].notnull()) &
-                                 (rightsizing_df['armSkuName'].notnull()) &
-                                 (rightsizing_df['osDiskSizeInMB'].notnull()) &
-                                 (rightsizing_df['memoryInMB'].notnull())]
+                                 (rightsizing_df['meterName'].isin(pricesheet_df['armSkuName']))]
 
-    if filtered_df.empty:
-        return None
-
-    joined_df = filtered_df.merge(pricesheet_df, left_on='meterName', right_on='armSkuName')
+    joined_df = filtered_df.merge(pricesheet_df, left_on='armSkuName', right_on='meterName')
 
     joined_df['unitPricePerUnit'] = joined_df['unitPricePerUnit'].str.replace(',', '.').astype(float)
+
+    if joined_df.empty:
+        return None
 
     lowest_cost_vm = joined_df.loc[joined_df['unitPricePerUnit'].idxmin()]
 
     return lowest_cost_vm
+
 
 
 def main():
