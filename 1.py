@@ -28,7 +28,6 @@ def main():
     print("Loading CSV files...")
     print("Pricesheet:")
     pricesheet_df = pd.read_csv('Exam Pricesheet.csv', delimiter=';')
-    input()
     print("Rightsizing:")
     rightsizing_df = pd.read_csv('Exam rightsizing.csv', delimiter=';', header=1)
     rightsizing_df.columns = ['armSkuName', 'numberOfCores', 'osDiskSizeInMB', 'memoryInMB', 'maxDataDiskCount', 'meterName']
