@@ -25,7 +25,6 @@ def find_lowest_cost_vm(memory_gb, vcpu_cores, os, pricesheet_df, rightsizing_df
 
 
 def main():
-    # Loading CSV files
     print("Loading CSV files...")
     print("Pricesheet:")
     pricesheet_df = pd.read_csv('Exam Pricesheet.csv', delimiter=';')
