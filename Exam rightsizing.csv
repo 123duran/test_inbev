@@ -1,0 +1,2441 @@
+armSkuName;numberOfCores;osDiskSizeInMB;memoryInMB;maxDataDiskCount;meterName
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4_v5;4;1047552;16384;8;D4 v5 Spot
+Standard_D4_v5;4;1047552;16384;8;D4 v5 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_A8m_v2;8;1047552;65536;16;A8m v2
+Standard_D8ds_v5;8;1047552;32768;16;D8ds v5 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_E4_v3;4;1047552;32768;8;E4 v3/E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D14_v2;16;1047552;114688;64;D14 v2/DS14 v2
+Standard_D14_v2;16;1047552;114688;64;D14 v2/DS14 v2
+Standard_D14_v2;16;1047552;114688;64;D14 v2/DS14 v2
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E20s_v3;20;1047552;163840;32;E20s v3 Low Priority
+Standard_E20s_v3;20;1047552;163840;32;E20s v3 Low Priority
+Standard_E20s_v3;20;1047552;163840;32;E20s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B1ms;1;1047552;2048;2;B1ms
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_E8_v3;8;1047552;65536;16;E8 v3/E8s v3 Spot
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16_v3;16;1047552;65536;32;D16 v3/D16s v3 Low Priority
+Standard_D16_v3;16;1047552;65536;32;D16 v3/D16s v3 Low Priority
+Standard_D16_v3;16;1047552;65536;32;D16 v3/D16s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E8_v3;8;1047552;65536;16;E8 v3/E8s v3 Spot
+Standard_E8_v3;8;1047552;65536;16;E8 v3/E8s v3 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_DS3;4;1047552;14336;16;DS3 Low Priority
+Standard_DS3;4;1047552;14336;16;DS3 Low Priority
+Standard_DS3;4;1047552;14336;16;DS3 Low Priority
+Standard_DS3;4;1047552;14336;16;DS3 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D8_v3;8;1047552;32768;16;D8 v3/D8s v3 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D16ds_v5;16;1047552;65536;32;D16ds v5 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_F8;8;1047552;16384;32;F8/F8s Low Priority
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_D4s_v4;4;1047552;16384;8;D4s v4 Spot
+Standard_D16_v3;16;1047552;65536;32;D16 v3/D16s v3 Low Priority
+Standard_D16_v3;16;1047552;65536;32;D16 v3/D16s v3 Low Priority
+Standard_NC6s_v2;6;1047552;114688;12;NC6s v2
+Standard_G1;2;1047552;28672;8;G1/GS1 Spot
+Standard_G3;8;1047552;114688;32;G3/GS3 Low Priority
+Standard_G3;8;1047552;114688;32;G3/GS3 Low Priority
+Standard_G3;8;1047552;114688;32;G3/GS3 Low Priority
+Standard_G3;8;1047552;114688;32;G3/GS3 Low Priority
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E4a_v4;4;1047552;32768;8;E4a v4/E4as v4 Spot
+Standard_E16s_v4;16;1047552;131072;32;E16s v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_D2s_v4;2;1047552;8192;4;D2s v4 Low Priority
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_D8as_v5;8;1047552;32768;16;D8as v5
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B20ms;20;1047552;81920;32;B20ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D8ds_v5;8;1047552;32768;16;D8ds v5 Low Priority
+Standard_D8ds_v5;8;1047552;32768;16;D8ds v5 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_L4s;4;1047552;32768;16;L4s Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_L4s;4;1047552;32768;16;L4s Low Priority
+Standard_L4s;4;1047552;32768;16;L4s Low Priority
+Standard_GS1;2;1047552;28672;8;GS1 Low Priority
+Standard_G1;2;1047552;28672;8;G1/GS1 Spot
+Standard_L4s;4;1047552;32768;16;L4s Low Priority
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_L4s;4;1047552;32768;16;L4s Low Priority
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_L8s;8;1047552;65536;32;L8s Low Priority
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_E8_v3;8;1047552;65536;16;E8 v3/E8s v3 Spot
+Standard_E8_v3;8;1047552;65536;16;E8 v3/E8s v3 Spot
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_DS4_v2;8;1047552;28672;32;DS4 v2 Spot
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_E8ads_v5;8;1047552;65536;16;E8ads v5
+Standard_E8ads_v5;8;1047552;65536;16;E8ads v5
+Standard_E8ads_v5;8;1047552;65536;16;E8ads v5
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_E16_v3;16;1047552;131072;32;E16 v3/E16s v3
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_A8_v2;8;1047552;16384;16;A8 v2 Low Priority
+Standard_A8_v2;8;1047552;16384;16;A8 v2 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E8-4s_v3;8;1047552;65536;16;E8-4s v3 Spot
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_E16ads_v5;16;1047552;131072;32;E16ads v5 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D14_v2;16;1047552;114688;64;D14 v2/DS14 v2
+Standard_DS14_v2_Promo;16;1047552;114688;64;DS14 v2 - Expired
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_D13;8;1047552;57344;32;D13/DS13 Low Priority
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_D5_v2;16;1047552;57344;64;D5 v2/DS5 v2 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_DS14;16;1047552;114688;64;DS14 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_DS13;8;1047552;57344;32;DS13 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_E8s_v4;8;1047552;65536;16;E8s v4
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D4ds_v4;4;1047552;16384;8;D4ds v4
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8;8;1047552;16384;32;F8/F8s Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_E32-8s_v3;32;1047552;262144;32;E32-8s v3
+Standard_E32-8s_v3;32;1047552;262144;32;E32-8s v3
+Standard_E32-8s_v3;32;1047552;262144;32;E32-8s v3
+Standard_E32-8s_v3;32;1047552;262144;32;E32-8s v3
+Standard_E32-8s_v3;32;1047552;262144;32;E32-8s v3
+Standard_D12_v2;4;1047552;28672;16;D12 v2/DS12 v2 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_D16ds_v4;16;1047552;65536;32;D16ds v4 Spot
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v4;4;1047552;32768;8;E4s v4 Spot
+Standard_E4s_v4;4;1047552;32768;8;E4s v4 Spot
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_L16s_v2;16;1047552;131072;32;L16s v2 Low Priority
+Standard_E20s_v3;20;1047552;163840;32;E20s v3 Low Priority
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4-8;16;1047552;229376;64;GS4-8
+Standard_GS4;16;1047552;229376;64;GS4
+Standard_GS4;16;1047552;229376;64;GS4
+Standard_GS4;16;1047552;229376;64;GS4
+Standard_GS4;16;1047552;229376;64;GS4
+Standard_GS4;16;1047552;229376;64;GS4
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_L16s_v2;16;1047552;131072;32;L16s v2 Low Priority
+Standard_L16s_v2;16;1047552;131072;32;L16s v2 Low Priority
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_M64m;64;1047552;1792000;64;M64m
+Standard_E16-4as_v4;16;1047552;131072;32;E16-4as_v4 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D4s_v4;4;1047552;16384;8;D4s v4 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_F16s;16;1047552;32768;64;F16s Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_E16as_v5;16;1047552;131072;32;E16as v5 Low Priority
+Standard_D16as_v5;16;1047552;65536;32;D16as v5
+Standard_D16as_v5;16;1047552;65536;32;D16as v5
+Standard_D16as_v5;16;1047552;65536;32;D16as v5
+Standard_D16as_v5;16;1047552;65536;32;D16as v5
+Standard_E32s_v3;32;1047552;262144;32;E32s v3
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D64s_v4;64;1047552;262144;32;D64s v4
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_F72s_v2;72;1047552;147456;32;F72s v2
+Standard_F72s_v2;72;1047552;147456;32;F72s v2
+Standard_F72s_v2;72;1047552;147456;32;F72s v2
+Standard_D8_v3;8;1047552;32768;16;D8 v3/D8s v3 Low Priority
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_F8s;8;1047552;16384;32;F8s Low Priority
+Standard_F8s;8;1047552;16384;32;F8s Low Priority
+Standard_E2as_v5;2;1047552;16384;4;E2as v5
+Standard_E2as_v5;2;1047552;16384;4;E2as v5
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E20as_v4;20;1047552;163840;32;E20as v4 Low Priority
+Standard_E20as_v4;20;1047552;163840;32;E20as v4 Low Priority
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_A7;8;1047552;57344;16;A7 Spot
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_D16s_v4;16;1047552;65536;32;D16s v4 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_B16ms;16;1047552;65536;32;B16ms
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D4_v2;8;1047552;28672;32;D4 v2/DS4 v2 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_E2s_v4;2;1047552;16384;4;E2s v4
+Standard_E2s_v4;2;1047552;16384;4;E2s v4
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D16a_v4;16;1047552;65536;32;D16a v4/D16as v4 Low Priority
+Standard_A4_v2;4;1047552;8192;8;A4 v2
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_E8as_v4;8;1047552;65536;16;E8as v4
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_L8s_v2;8;1047552;65536;16;L8s v2
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS2_v2;2;1047552;7168;8;DS2 v2 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_E32ds_v4;32;1047552;262144;32;E32ds v4 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_M128m;128;1047552;3891200;64;M128m Spot
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_M192ids_v2;192;1047552;2097152;64;M192ids_v2 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_M128ms;128;1047552;3891200;64;M128ms Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_E16bds_v5;16;1047552;131072;32;E16bds v5 Spot
+Standard_E16bds_v5;16;1047552;131072;32;E16bds v5 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_DS14_v2;16;1047552;114688;64;DS14 v2
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_M64ls;64;1047552;524288;64;M64ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_M32ls;32;1047552;262144;32;M32ls
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_D48s_v3;48;1047552;196608;32;D48s v3 Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_M64ms;64;1047552;1792000;64;M64ms Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_D32s_v3;32;1047552;131072;32;D32s v3 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_E20ds_v4;20;1047552;163840;32;E20ds v4 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_M64s;64;1047552;1048576;64;M64s Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M208s_v2;208;1047552;2918400;64;M208s v2 Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_M32ts;32;1047552;196608;32;M32ts Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E8ds_v5;8;1047552;65536;16;E8ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_E4ds_v5;4;1047552;32768;8;E4ds v5 Low Priority
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_D8s_v4;8;1047552;32768;16;D8s v4 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_D16as_v4;16;1047552;65536;32;D16as v4 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D32as_v4;32;1047552;131072;32;D32as v4
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E32ds_v5;32;1047552;262144;32;E32ds v5 Low Priority
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E48ds_v5;48;1047552;393216;32;E48ds v5 Spot
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_E8s_v3;8;1047552;65536;16;E8s v3
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D8s_v5;8;1047552;32768;16;D8s v5 Low Priority
+Standard_D16s_v5;16;1047552;65536;32;D16s v5
+Standard_D16s_v5;16;1047552;65536;32;D16s v5
+Standard_D16s_v5;16;1047552;65536;32;D16s v5
+Standard_D16s_v5;16;1047552;65536;32;D16s v5
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_F4s;4;1047552;8192;16;F4s
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_E2as_v4;2;1047552;16384;4;E2as v4 Spot
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_E2as_v4;2;1047552;16384;4;E2as v4 Spot
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_E4ds_v4;4;1047552;32768;8;E4ds v4 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_D4s_v5;4;1047552;16384;8;D4s v5 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D8s_v3;8;1047552;32768;16;D8s v3 Low Priority
+Standard_B12ms;12;1047552;49152;16;B12ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_D8as_v4;8;1047552;32768;16;D8as v4 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_E8-4as_v4;8;1047552;65536;16;E8-4as_v4 Spot
+Standard_E8-4as_v4;8;1047552;65536;16;E8-4as_v4 Spot
+Standard_E8-4as_v4;8;1047552;65536;16;E8-4as_v4 Spot
+Standard_E8-4as_v4;8;1047552;65536;16;E8-4as_v4 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_D8ds_v4;8;1047552;32768;16;D8ds v4 Spot
+Standard_D8ds_v4;8;1047552;32768;16;D8ds v4 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2s_v3;2;1047552;8192;4;D2s v3
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_D2as_v4;2;1047552;8192;4;D2as v4 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_E16as_v4;16;1047552;131072;32;E16as v4 Low Priority
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_E4-2as_v4;4;1047552;32768;8;E4-2as_v4 Low Priority
+Standard_F1s;1;1047552;2048;4;F1s Low Priority
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_E16-8as_v4;16;1047552;131072;32;E16-8as_v4
+Standard_E16-8as_v4;16;1047552;131072;32;E16-8as_v4
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_E16s_v3;16;1047552;131072;32;E16s v3
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B8ms;8;1047552;32768;16;B8ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_F4s_v2;4;1047552;8192;8;F4s v2 Low Priority
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B2ms;2;1047552;8192;4;B2ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_E4as_v4;4;1047552;32768;8;E4as v4 Spot
+Standard_F8s_v2;8;1047552;16384;16;F8s v2 Spot
+Standard_D4ads_v5;4;1047552;16384;8;D4ads v5 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4a_v4;4;1047552;32768;8;E4a v4/E4as v4 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_D4_v3;4;1047552;16384;8;D4 v3/D4s v3 Spot
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_E4s_v3;4;1047552;32768;8;E4s v3 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_D16s_v3;16;1047552;65536;32;D16s v3 Spot
+Standard_DS3_v2;4;1047552;14336;16;DS3 v2 Low Priority
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_DS5_v2;16;1047552;57344;64;DS5 v2 Low Priority
+Standard_DS5_v2;16;1047552;57344;64;DS5 v2 Low Priority
+Standard_DS5_v2;16;1047552;57344;64;DS5 v2 Low Priority
+Standard_DS5_v2;16;1047552;57344;64;DS5 v2 Low Priority
+Standard_DS5_v2;16;1047552;57344;64;DS5 v2 Low Priority
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_D11_v2;2;1047552;14336;8;D11 v2/DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_DS11_v2;2;1047552;14336;8;DS11 v2
+Standard_E48as_v4;48;1047552;393216;32;E48as v4 Spot
+Standard_E48as_v4;48;1047552;393216;32;E48as v4 Spot
+Standard_E48as_v4;48;1047552;393216;32;E48as v4 Spot
+Standard_E32as_v4;32;1047552;262144;32;E32as v4 Low Priority
+Standard_E32as_v4;32;1047552;262144;32;E32as v4 Low Priority
+Standard_F16s_v2;16;1047552;32768;32;F16s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_F32s_v2;32;1047552;65536;32;F32s v2 Low Priority
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_D4s_v3;4;1047552;16384;8;D4s v3 Spot
+Standard_E2s_v3;2;1047552;16384;4;E2s v3
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D2;2;1047552;7168;8;D2/DS2 Spot
+Standard_D2;2;1047552;7168;8;D2/DS2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v3;2;1047552;8192;4;D2 v3/D2s v3 Spot
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_D2;2;1047552;7168;8;D2/DS2 Spot
+Standard_D2;2;1047552;7168;8;D2/DS2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D3_v2;4;1047552;14336;16;D3 v2/DS3 v2 Low Priority
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_D2_v2;2;1047552;7168;8;D2 v2/DS2 v2 Spot
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B4ms;4;1047552;16384;8;B4ms
+Standard_B2s;2;1047552;4096;4;B2s
+Standard_D4as_v4;4;1047552;16384;8;D4as v4
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12_v2;4;1047552;28672;16;DS12 v2 Low Priority
+Standard_DS12;4;1047552;28672;16;DS12
+Standard_DS12;4;1047552;28672;16;DS12
+Standard_DS12;4;1047552;28672;16;DS12
+Standard_DS12;4;1047552;28672;16;DS12
+Standard_DS12;4;1047552;28672;16;DS12
+Standard_F2s_v2;2;1047552;4096;4;F2s v2 Spot
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_D4ds_v5;4;1047552;16384;8;D4ds v5
+Standard_B2ms;2;1047552;8192;4;B2ms

@@ -1,0 +1,357 @@
+meterName;armSkuName;tier;size;family;MemoryPreservingMaintenanceSupported;HyperVGenerations;CpuArchitectureType;LowPriorityCapable;PremiumIO;ACUs;EphemeralOSDiskSupported;EncryptionAtHostSupported;CapacityReservationSupported;AcceleratedNetworkingEnabled;RdmaEnabled;MaxNetworkInterfaces;UltraSSDAvailable;unit;os;unitPricePerUnit
+D13 v2/DS13 v2;Standard_D13_v2;Standard;D13_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Windows;0,7293
+DC48s_v3;Standard_DC48s_v3;Standard;DC48s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;FALSE;10;Linux;3,7128
+D48 v4;Standard_D48_v4;Standard;D48_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;1,8564
+A2 Low Priority;Standard_A2;Standard;A2;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Linux;0,01651
+D1 v2/DS1 v2 Low Priority;Standard_D1_v2;Standard;D1_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;100;Windows;0,00962
+D1/DS1 Low Priority;Standard_D1;Standard;D1;standardDFamily;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Linux;0,0104
+L48as v3;Standard_L48as_v3;Standard;L48as_v3;standardLASv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;FALSE;10;Linux;2,8509
+M64ds_v2 Low Priority;Standard_M64ds_v2;Standard;M64ds_v2;standardMDSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,1973
+E2d v4 Low Priority;Standard_E2d_v4;Standard;E2d_v4;standardEDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;TRUE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,022373
+DC64as v5;Standard_DC64as_v5;Standard;DC64as_v5;standardDCASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;FALSE;FALSE;FALSE;8;TRUE;10;Windows;4,4889
+M128s Low Priority;Standard_M128s;Standard;M128s;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;2,3959
+NC96ads_A100_v4;Standard_NC96ads_A100_v4;Standard;NC96ads_A100_v4;StandardNCADSA100v4Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;16,237
+D16 v5 Low Priority;Standard_D16_v5;Standard;D16_v5;standardDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,12363
+DC32s_v3;Standard_DC32s_v3;Standard;DC32s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;FALSE;10;Linux;2,4752
+EC20as_v5 Low Priority;Standard_EC20as_v5;Standard;EC20as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;8;TRUE;100;Windows;0,19136
+DC16ads v5 Low Priority;Standard_DC16ads_v5;Standard;DC16ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;4;TRUE;100;Windows;0,49998
+D2s v4 Low Priority;Standard_D2s_v4;Standard;D2s_v4;standardDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;3;TRUE;1000;Linux;0,01547
+E8ps v5 Low Priority;Standard_E8ps_v5;Standard;E8ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;4;TRUE;1000;Linux;0,06188
+E32-8as_v4;Standard_E32-8as_v4;Standard;E32-8as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;1,547
+M128ds_v2 Low Priority;Standard_M128ds_v2;Standard;M128ds_v2;standardMDSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;6,4181
+E20 v5 Low Priority;Standard_E20_v5;Standard;E20_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,6409
+NC48ads_A100_v4;Standard_NC48ads_A100_v4;Standard;NC48ads_A100_v4;StandardNCADSA100v4Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;10;Linux;6,5949
+D14 v2/DS14 v2 - Expired;Standard_D14_v2_Promo;Standard;D14_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;8;null;10;Windows;1,4573
+D32d v5 Low Priority;Standard_D32d_v5;Standard;D32d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,29432
+E48 v3/E48s v3 Low Priority;Standard_E48_v3;Standard;E48_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Windows;1,5379
+EC4as_v5;Standard_EC4as_v5;Standard;EC4as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;2;TRUE;100;Linux;0,19136
+E112ias v5 Low Priority;Standard_E112ias_v5;Standard;E112ias_v5;standardEIASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,5672
+E8bs v5 Low Priority;Standard_E8bs_v5;Standard;E8bs_v5;standardEBSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,28587
+M64ls;Standard_M64ls;Standard;M64ls;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;6,4558
+E2bs v5 Low Priority;Standard_E2bs_v5;Standard;E2bs_v5;standardEBSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,071825
+B8ms;Standard_B8ms;Standard;B8ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;4;TRUE;10;Windows;0,2964
+D8ps v5;Standard_D8ps_v5;Standard;D8ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,24726
+E32pds v5;Standard_E32pds_v5;Standard;E32pds_v5;standardEPDSv5Family;TRUE;V2;Arm64;FALSE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;1,443
+DC96ads v5 Low Priority;Standard_DC96ads_v5;Standard;DC96ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;8;TRUE;10;Windows;3,0004
+D32d v4 Low Priority;Standard_D32d_v4;Standard;D32d_v4;standardDDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;100;Linux;0,29432
+DC96as v5;Standard_DC96as_v5;Standard;DC96as_v5;standardDCASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;FALSE;FALSE;FALSE;8;TRUE;10;Linux;3,6829
+E20a v4/E20as v4 Low Priority;Standard_E20a_v4;Standard;E20a_v4;standardEAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;100;Windows;0,6409
+A8 v2 Low Priority;Standard_A8_v2;Standard;A8_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;8;null;10;Windows;0,1651
+E64-32as v5;Standard_E64-32as_v5;Standard;E64-32as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;2,7846
+NC24ads_A100_v4;Standard_NC24ads_A100_v4;Standard;NC24ads_A100_v4;StandardNCADSA100v4Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;10;Linux;3,2981
+E96s v5;Standard_E96s_v5;Standard;E96s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;7,6908
+NV12s v2 Low Priority;Standard_NV12s_v2;Standard;NV12s_v2;standardNVSv2Family;FALSE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;FALSE;FALSE;FALSE;8;null;10;Linux;0,2119
+D64lds v5;Standard_D64lds_v5;Standard;D64lds_v5;standardDLDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;2,652
+D8s v4 Low Priority;Standard_D8s_v4;Standard;D8s_v4;standardDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;1000;Windows;0,225147
+B2s;Standard_B2s;Standard;B2s;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;3;TRUE;100;Linux;0,03419
+E16 v3/E16s v3;Standard_E16_v3;Standard;E16_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Windows;1,2818
+D16 v3/D16s v3 Low Priority;Standard_D16_v3;Standard;D16_v3;standardDv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;0,13
+DC2s_v3 Low Priority;Standard_DC2s_v3;Standard;DC2s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;2;FALSE;1000;Linux;0,03094
+E48ads v5;Standard_E48ads_v5;Standard;E48ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;2,4531
+D4lds v5;Standard_D4lds_v5;Standard;D4lds_v5;standardDLDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;100;Linux;0,16575
+D2 v4 Low Priority;Standard_D2_v4;Standard;D2_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;3;null;1000;Windows;0,056355
+A1;Standard_A1;Standard;A1;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Linux;0,04147
+E2 v4 Low Priority;Standard_E2_v4;Standard;E2_v4;standardEv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,019331
+M128s_v2;Standard_M128s_v2;Standard;M128s_v2;standardMSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Linux;11,596
+D8 v5 Low Priority;Standard_D8_v5;Standard;D8_v5;standardDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;1000;Linux;0,06188
+E64as v5 Low Priority;Standard_E64as_v5;Standard;E64as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,92699
+F72s v2;Standard_F72s_v2;Standard;F72s_v2;standardFSv2Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;1;Windows;4,914
+F8/F8s Low Priority;Standard_F8;Standard;F8;standardFFamily;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;100;Windows;0,23894
+NV48s v3;Standard_NV48s_v3;Standard;NV48s_v3;standardNVSv3Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;4,667
+M64m;Standard_M64m;Standard;M64m;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;14,014
+E4s v5 Low Priority;Standard_E4s_v5;Standard;E4s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,038675
+D2d v4 Low Priority;Standard_D2d_v4;Standard;D2d_v4;standardDDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,018369
+E2ps v5;Standard_E2ps_v5;Standard;E2ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1;Windows;0,143
+D12 v2/DS12 v2 - Expired;Standard_D12_v2_Promo;Standard;D12_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;4;null;10;Windows;0,364
+F48s v2;Standard_F48s_v2;Standard;F48s_v2;standardFSv2Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;1;Windows;3,289
+M32ms_v2 Low Priority;Standard_M32ms_v2;Standard;M32ms_v2;standardMSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,0855
+M192idms_v2;Standard_M192idms_v2;Standard;M192idms_v2;standardMIDSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;34,892
+DC8as v5 Low Priority;Standard_DC8as_v5;Standard;DC8as_v5;standardDCASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;FALSE;FALSE;FALSE;4;TRUE;1000;Windows;0,224458
+E64 v5 Low Priority;Standard_E64_v5;Standard;E64_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;2,05127
+D16ps v5 Low Priority;Standard_D16ps_v5;Standard;D16ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,0988
+E64s v5;Standard_E64s_v5;Standard;E64s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;5,1272
+E64 v4;Standard_E64_v4;Standard;E64_v4;standardEv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;3,094
+E96ias v4;Standard_E96ias_v4;Standard;E96ias_v4;standardEIASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;4,641
+E8a v4/E8as v4;Standard_E8a_v4;Standard;E8a_v4;standardEAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;null;100;Linux;0,38675
+E20d v5 Low Priority;Standard_E20d_v5;Standard;E20d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,22373
+E112iads v5 Low Priority;Standard_E112iads_v5;Standard;E112iads_v5;standardEIADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,9429
+EC64as_v5;Standard_EC64as_v5;Standard;EC64as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;8;TRUE;10;Windows;5,096
+E96-24as v5;Standard_E96-24as_v5;Standard;E96-24as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;7,2267
+E16-4ds v4 Low Priority;Standard_E16-4ds_v4;Standard;E16-4ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,56147
+E96-24as_v4;Standard_E96-24as_v4;Standard;E96-24as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;4,641
+E2a v4/E2as v4;Standard_E2a_v4;Standard;E2a_v4;standardEAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;null;100;Windows;0,16029
+D8ads v5 Low Priority;Standard_D8ads_v5;Standard;D8ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;1000;Windows;0,236197
+E20ds v5;Standard_E20ds_v5;Standard;E20ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;1,7537
+M32dms_v2 Low Priority;Standard_M32dms_v2;Standard;M32dms_v2;standardMDSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,1037
+A2 v2 Low Priority;Standard_A2_v2;Standard;A2_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;2;null;100;Windows;0,03731
+L32as v3;Standard_L32as_v3;Standard;L32as_v3;standardLASv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;FALSE;10;Windows;2,9172
+E8s v4;Standard_E8s_v4;Standard;E8s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,6409
+E16-4s v4 Low Priority;Standard_E16-4s_v4;Standard;E16-4s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,1547
+D4d v5 Low Priority;Standard_D4d_v5;Standard;D4d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,036751
+F4/F4s;Standard_F4;Standard;F4;standardFFamily;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;4;null;10;Linux;0,1716
+D4 v2/DS4 v2 - Expired;Standard_D4_v2_Promo;Standard;D4_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;8;null;10;Windows;0,6968
+D2plds v5;Standard_D2plds_v5;Standard;D2plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1;Windows;0,117
+D2s v5;Standard_D2s_v5;Standard;D2s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Windows;0,14092
+D16pls v5 Low Priority;Standard_D16pls_v5;Standard;D16pls_v5;standardDPLSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;4;TRUE;1;Windows;0,39
+DC16ds_v3 Low Priority;Standard_DC16ds_v3;Standard;DC16ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;FALSE;100;Windows;0,79144
+E4d v4;Standard_E4d_v4;Standard;E4d_v4;standardEDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;TRUE;TRUE;TRUE;FALSE;2;null;100;Linux;0,22373
+A2m v2;Standard_A2m_v2;Standard;A2m_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;2;null;100;Linux;0,10283
+D8s v5 Low Priority;Standard_D8s_v5;Standard;D8s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;1000;Linux;0,06188
+D32as v5 Low Priority;Standard_D32as_v5;Standard;D32as_v5;standardDASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,22308
+E8s v5 Low Priority;Standard_E8s_v5;Standard;E8s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,07735
+D32plds v5;Standard_D32plds_v5;Standard;D32plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,0608
+EC16as_v5 Low Priority;Standard_EC16as_v5;Standard;EC16as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;4;TRUE;100;Windows;0,50973
+A2;Basic_A2;Basic;A2;basicAFamily;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Windows;0,0559
+L64s v2 Low Priority;Standard_L64s_v2;Standard;L64s_v2;standardLSv2Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;0,7605
+NC12s v3;Standard_NC12s_v3;Standard;NC12s_v3;standardNCSv3Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;5,876
+DC24s_v3 Low Priority;Standard_DC24s_v3;Standard;DC24s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;FALSE;100;Windows;1,0478
+EC8ads_v5 Low Priority;Standard_EC8ads_v5;Standard;EC8ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;4;TRUE;100;Windows;0,28184
+E104id v5 Low Priority;Standard_E104id_v5;Standard;E104id_v5;standardEIDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,8818
+D64plds v5;Standard_D64plds_v5;Standard;D64plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;2,1216
+E64ads v5;Standard_E64ads_v5;Standard;E64ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;5,304
+DC4ads v5;Standard_DC4ads_v5;Standard;DC4ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;2;TRUE;100;Windows;0,31226
+D32ads v5;Standard_D32ads_v5;Standard;D32ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,3647
+DC8ads v5;Standard_DC8ads_v5;Standard;DC8ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;4;TRUE;100;Linux;0,37089
+D11 v2/DS11 v2;Standard_D11_v2;Standard;D11_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;10;Linux;0,1274
+D2ads v5;Standard_D2ads_v5;Standard;D2ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,08424
+D13/DS13 Low Priority;Standard_D13;Standard;D13;standardDFamily;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;FALSE;FALSE;FALSE;8;null;10;Windows;0,2912
+D4ds v4;Standard_D4ds_v4;Standard;D4ds_v4;standardDDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Windows;0,31083
+M128dms_v2;Standard_M128dms_v2;Standard;M128dms_v2;standardMDSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;28,028
+E64-32as_v4 Low Priority;Standard_E64-32as_v4;Standard;E64-32as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,6188
+DC32ds_v3;Standard_DC32ds_v3;Standard;DC32ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;FALSE;10;Windows;3,9559
+E8pds v5 Low Priority;Standard_E8pds_v5;Standard;E8pds_v5;standardEPDSv5Family;TRUE;V2;Arm64;FALSE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,07189
+L4s Low Priority;Standard_L4s;Standard;L4s;standardLSFamily;FALSE;V1,V2;x64;TRUE;TRUE;180;TRUE;TRUE;FALSE;FALSE;FALSE;2;null;100;Windows;0,14573
+E32s v5;Standard_E32s_v5;Standard;E32s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,547
+F4s v2 Low Priority;Standard_F4s_v2;Standard;F4s_v2;standardFSv2Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,02353
+E16 v5 Low Priority;Standard_E16_v5;Standard;E16_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,1547
+E32-16ds v4 Low Priority;Standard_E32-16ds_v4;Standard;E32-16ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,35776
+E32-16as v5 Low Priority;Standard_E32-16as_v5;Standard;E32-16as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,96343
+B16ms;Standard_B16ms;Standard;B16ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,5486
+E20ads v5 Low Priority;Standard_E20ads_v5;Standard;E20ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,20436
+E104ids v5 Low Priority;Standard_E104ids_v5;Standard;E104ids_v5;standardEIDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,8818
+E96-48as v5 Low Priority;Standard_E96-48as_v5;Standard;E96-48as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,8912
+L32s v2 Low Priority;Standard_L32s_v2;Standard;L32s_v2;standardLSv2Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;100;Windows;1,16727
+DC2ds_v3 Low Priority;Standard_DC2ds_v3;Standard;DC2ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;FALSE;1000;Windows;0,098774
+E48s v4;Standard_E48s_v4;Standard;E48s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;2,3205
+E32 v3/E32s v3;Standard_E32_v3;Standard;E32_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Windows;2,5636
+D5 v2/DS5 v2 - Expired;Standard_D5_v2_Promo;Standard;D5_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;8;null;10;Windows;1,3923
+A0 Low Priority;Standard_A0;Standard;A0;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;50;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;1000;Linux;0,002756
+EC4ads_v5;Standard_EC4ads_v5;Standard;EC4ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;2;TRUE;100;Linux;0,22516
+E8-4s v4 Low Priority;Standard_E8-4s_v4;Standard;E8-4s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,07735
+D3 v2/DS3 v2 - Expired;Standard_D3_v2_Promo;Standard;D3_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;4;null;10;Windows;0,3484
+E8d v5 Low Priority;Standard_E8d_v5;Standard;E8d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,28041
+D32pls v5;Standard_D32pls_v5;Standard;D32pls_v5;standardDPLSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;0,9373
+B1ms;Standard_B1ms;Standard;B1ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;2;TRUE;100;Linux;0,01716
+L8s Low Priority;Standard_L8s;Standard;L8s;standardLSFamily;FALSE;V1,V2;x64;TRUE;TRUE;180;TRUE;TRUE;FALSE;FALSE;FALSE;4;null;10;Windows;0,2912
+E32-8ads v5;Standard_E32-8ads_v5;Standard;E32-8ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,6354
+E4ds v4 Low Priority;Standard_E4ds_v4;Standard;E4ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,044746
+E8-2ads v5;Standard_E8-2ads_v5;Standard;E8-2ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,663
+D48d v5 Low Priority;Standard_D48d_v5;Standard;D48d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,49175
+E2 v5 Low Priority;Standard_E2_v5;Standard;E2_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,019331
+D16ads v5;Standard_D16ads_v5;Standard;D16ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,67418
+E4-2as_v4 Low Priority;Standard_E4-2as_v4;Standard;E4-2as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,038675
+DC32as v5;Standard_DC32as_v5;Standard;DC32as_v5;standardDCASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;FALSE;FALSE;FALSE;8;TRUE;10;Windows;2,2438
+E32bs v5;Standard_E32bs_v5;Standard;E32bs_v5;standardEBSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,846
+E32-16s v4 Low Priority;Standard_E32-16s_v4;Standard;E32-16s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,02557
+E96d v5;Standard_E96d_v5;Standard;E96d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;8,4214
+NC24s v3;Standard_NC24s_v3;Standard;NC24s_v3;standardNCSv3Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;11,739
+E48ds v4 Low Priority;Standard_E48ds_v4;Standard;E48ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,68376
+E8ds v5 Low Priority;Standard_E8ds_v5;Standard;E8ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,0897
+B12ms;Standard_B12ms;Standard;B12ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;6;TRUE;10;Linux;0,4108
+F32s v2 Low Priority;Standard_F32s_v2;Standard;F32s_v2;standardFSv2Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,18785
+NC16asT4 v3;Standard_NC16as_T4_v3;Standard;NC16as_T4_v3;Standard NCASv3_T4 Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;1,5067
+M208ms v2 Low Priority;Standard_M208ms_v2;Standard;M208ms_v2;standardMSv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Linux;8,008
+E4ds v5 Low Priority;Standard_E4ds_v5;Standard;E4ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,044746
+D4s v5 Low Priority;Standard_D4s_v5;Standard;D4s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,03094
+D2as v5 Low Priority;Standard_D2as_v5;Standard;D2as_v5;standardDASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,053313
+E80is v4 Low Priority;Standard_E80is_v4;Standard;E80is_v4;standardXEISv4Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;2,5636
+A6 Low Priority;Standard_A6;Standard;A6;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Windows;0,06916
+B2ms;Standard_B2ms;Standard;B2ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;3;TRUE;100;Windows;0,07397
+DC4ds_v3 Low Priority;Standard_DC4ds_v3;Standard;DC4ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;FALSE;100;Linux;0,07319
+E16d v5 Low Priority;Standard_E16d_v5;Standard;E16d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,56147
+E4-2s v4;Standard_E4-2s_v4;Standard;E4-2s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,19331
+E32s v4;Standard_E32s_v4;Standard;E32s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,547
+D16plds v5;Standard_D16plds_v5;Standard;D16plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,5304
+D16d v5 Low Priority;Standard_D16d_v5;Standard;D16d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,14703
+D2ds v5;Standard_D2ds_v5;Standard;D2ds_v5;standardDDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,09191
+NC8as T4 v3;Standard_NC8as_T4_v3;Standard;NC8as_T4_v3;Standard NCASv3_T4 Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;100;Windows;0,87711
+D12/DS12;Standard_D12;Standard;D12;standardDFamily;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;FALSE;FALSE;FALSE;4;null;10;Linux;0,2665
+B1s;Standard_B1s;Standard;B1s;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;2;TRUE;1000;Windows;0,011323
+E32d v4;Standard_E32d_v4;Standard;E32d_v4;standardEDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;null;10;Windows;2,8067
+D13 v2/DS13 v2 - Expired;Standard_D13_v2_Promo;Standard;D13_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;8;null;10;Windows;0,7293
+D4pls v5 Low Priority;Standard_D4pls_v5;Standard;D4pls_v5;standardDPLSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1000;Linux;0,023413
+E4ps v5 Low Priority;Standard_E4ps_v5;Standard;E4ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1;Windows;0,104
+E20ps v5;Standard_E20ps_v5;Standard;E20ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;1,404
+EC48ads_v5 Low Priority;Standard_EC48ads_v5;Standard;EC48ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;8;TRUE;100;Linux;0,53937
+F16s v2 Low Priority;Standard_F16s_v2;Standard;F16s_v2;standardFSv2Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;10;Linux;0,0936
+E4 v5;Standard_E4_v5;Standard;E4_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Windows;0,32045
+D8ds v5 Low Priority;Standard_D8ds_v5;Standard;D8ds_v5;standardDDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,07319
+NC6s v3 Low Priority;Standard_NC6s_v3;Standard;NC6s_v3;standardNCSv3Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Windows;1,17546
+D4 v4 Low Priority;Standard_D4_v4;Standard;D4_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,03094
+D2a v4/D2as v4 Low Priority;Standard_D2a_v4;Standard;D2a_v4;standardDAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,01547
+E64-32s v4;Standard_E64-32s_v4;Standard;E64-32s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,094
+D8as v5;Standard_D8as_v5;Standard;D8as_v5;standardDASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,53313
+M192ims_v2;Standard_M192ims_v2;Standard;M192ims_v2;standardMISMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;34,502
+D64ds v5;Standard_D64ds_v5;Standard;D64ds_v5;standardDDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;4,9725
+A4 Low Priority;Standard_A4;Standard;A4;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;4;null;100;Linux;0,05187
+D2pds v5;Standard_D2pds_v5;Standard;D2pds_v5;standardDPDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;100;Linux;0,07319
+G2/GS2;Standard_G2;Standard;G2;standardGFamily;FALSE;V1;x64;TRUE;FALSE;180;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;10;Linux;0,8424
+L64s v3;Standard_L64s_v3;Standard;L64s_v3;standardLSv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;4,2432
+E96as v5 Low Priority;Standard_E96as_v5;Standard;E96as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;0,8359
+EC8as_v5 Low Priority;Standard_EC8as_v5;Standard;EC8as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;4;TRUE;100;Windows;0,2548
+E64 v3/E64s v3 Low Priority;Standard_E64_v3;Standard;E64_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;0,5564
+E32-8ds v4;Standard_E32-8ds_v4;Standard;E32-8ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,7901
+E16-4as v5 Low Priority;Standard_E16-4as_v5;Standard;E16-4as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,48204
+A4 v2;Standard_A4_v2;Standard;A4_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;4;null;100;Linux;0,13195
+M8ms;Standard_M8ms;Standard;M8ms;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;10;Windows;1,6328
+E96ads v5 Low Priority;Standard_E96ads_v5;Standard;E96ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,9815
+E8-2s v4 Low Priority;Standard_E8-2s_v4;Standard;E8-2s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Windows;0,25623
+E16-8as_v4;Standard_E16-8as_v4;Standard;E16-8as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;0,7735
+NC64asT4 v3;Standard_NC64as_T4_v3;Standard;NC64as_T4_v3;Standard NCASv3_T4 Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;3,6075
+E64-16as_v4;Standard_E64-16as_v4;Standard;E64-16as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;3,094
+B1ls;Standard_B1ls;Standard;B1ls;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;2;TRUE;1000;Linux;0,004277
+E2as v5;Standard_E2as_v5;Standard;E2as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,0871
+E16-4ads v5;Standard_E16-4ads_v5;Standard;E16-4ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,8177
+E8-4ads v5 Low Priority;Standard_E8-4ads_v5;Standard;E8-4ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,08151
+D48ls v5;Standard_D48ls_v5;Standard;D48ls_v5;standardDLSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,7576
+L16s v3 Low Priority;Standard_L16s_v3;Standard;L16s_v3;standardLSv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,21203
+D8a v4/D8as v4 Low Priority;Standard_D8a_v4;Standard;D8a_v4;standardDAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;null;100;Windows;0,22516
+DC2s v2 Low Priority;Standard_DC2s_v2;Standard;DC2s_v2;standardDCSv2Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;1;null;100;Windows;0,0871
+NV24s v2 Low Priority;Standard_NV24s_v2;Standard;NV24s_v2;standardNVSv2Family;FALSE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;FALSE;FALSE;FALSE;8;null;1;Windows;0,988
+E32-8as v5;Standard_E32-8as_v5;Standard;E32-8as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,3923
+A3;Standard_A3;Standard;A3;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Linux;0,12987
+E8-4as v5 Low Priority;Standard_E8-4as_v5;Standard;E8-4as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,06968
+E2 v3/E2s v3;Standard_E2_v3;Standard;E2_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;10;Linux;0,1014
+DC1ds_v3;Standard_DC1ds_v3;Standard;DC1ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;FALSE;100;Windows;0,09191
+E48d v5 Low Priority;Standard_E48d_v5;Standard;E48d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,68376
+E48 v5 Low Priority;Standard_E48_v5;Standard;E48_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,4641
+E16ps v5;Standard_E16ps_v5;Standard;E16ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,6188
+E20as v5 Low Priority;Standard_E20as_v5;Standard;E20as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,17407
+E64d v5;Standard_E64d_v5;Standard;E64d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;5,6134
+E48bds v5 Low Priority;Standard_E48bds_v5;Standard;E48bds_v5;standardEBDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,86342
+E8ads v5;Standard_E8ads_v5;Standard;E8ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,40885
+D96ads v5 Low Priority;Standard_D96ads_v5;Standard;D96ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,8379
+D32a v4/D32as v4;Standard_D32a_v4;Standard;D32a_v4;standardDAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;10;Linux;1,2389
+D32ps v5;Standard_D32ps_v5;Standard;D32ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;0,9906
+D16pds v5;Standard_D16pds_v5;Standard;D16pds_v5;standardDPDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,58565
+E16bs v5 Low Priority;Standard_E16bs_v5;Standard;E16bs_v5;standardEBSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,18434
+L16as v3 Low Priority;Standard_L16as_v3;Standard;L16as_v3;standardLASv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;FALSE;100;Linux;0,18993
+DC64ads v5;Standard_DC64ads_v5;Standard;DC64ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;8;TRUE;10;Linux;2,9653
+D8 v3/D8s v3 Low Priority;Standard_D8_v3;Standard;D8_v3;standardDv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;4;null;100;Linux;0,06461
+E20ds v4 Low Priority;Standard_E20ds_v4;Standard;E20ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,70174
+D96s v5;Standard_D96s_v5;Standard;D96s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;3,7128
+D32s v4 Low Priority;Standard_D32s_v4;Standard;D32s_v4;standardDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,90194
+D32 v4 Low Priority;Standard_D32_v4;Standard;D32_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;100;Linux;0,24726
+DC2as v5;Standard_DC2as_v5;Standard;DC2as_v5;standardDCASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;FALSE;FALSE;FALSE;2;TRUE;100;Windows;0,14027
+E104is v5 Low Priority;Standard_E104is_v5;Standard;E104is_v5;standardEISv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,5334
+E64-32ds v4 Low Priority;Standard_E64-32ds_v4;Standard;E64-32ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,2451
+D16s v4 Low Priority;Standard_D16s_v4;Standard;D16s_v4;standardDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,12363
+E4bds v5;Standard_E4bds_v5;Standard;E4bds_v5;standardEBDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Windows;0,38818
+D4plds v5 Low Priority;Standard_D4plds_v5;Standard;D4plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1000;Linux;0,02652
+D48 v3/D48s v3 Low Priority;Standard_D48_v3;Standard;D48_v3;standardDv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;0,3887
+D48ads v5;Standard_D48ads_v5;Standard;D48ads_v5;standardDADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,5477
+D4ps v5;Standard_D4ps_v5;Standard;D4ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1;Windows;0,26
+D8d v5;Standard_D8d_v5;Standard;D8d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,62153
+D64ds v4 Low Priority;Standard_D64ds_v4;Standard;D64ds_v4;standardDDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,58786
+D4d v4 Low Priority;Standard_D4d_v4;Standard;D4d_v4;standardDDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,036751
+E64ds v4 Low Priority;Standard_E64ds_v4;Standard;E64ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,7163
+E16pds v5 Low Priority;Standard_E16pds_v5;Standard;E16pds_v5;standardEPDSv5Family;TRUE;V2;Arm64;FALSE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;1;Windows;0,494
+E8as v5;Standard_E8as_v5;Standard;E8as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Windows;0,60229
+A8m v2;Standard_A8m_v2;Standard;A8m_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;8;null;100;Linux;0,41028
+D2 v2/DS2 v2 - Expired;Standard_D2_v2_Promo;Standard;D2_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;2;null;10;Windows;0,1742
+L8s v3 Low Priority;Standard_L8s_v3;Standard;L8s_v3;standardLSv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,10634
+D14 v2/DS14 v2;Standard_D14_v2;Standard;D14_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;1,0244
+D12 v2/DS12 v2 Low Priority;Standard_D12_v2;Standard;D12_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;4;null;10;Linux;0,0507
+D64d v4;Standard_D64d_v4;Standard;D64d_v4;standardDDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;10;Windows;4,9725
+DC8 v2 Low Priority;Standard_DC8_v2;Standard;DC8_v2;standardDCSv2Family;TRUE;V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;1;null;100;Windows;0,34944
+EC64ads_v5;Standard_EC64ads_v5;Standard;EC64ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;8;TRUE;10;Linux;3,5984
+M16ms;Standard_M16ms;Standard;M16ms;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;2,7586
+E4ads v5 Low Priority;Standard_E4ads_v5;Standard;E4ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,1326
+M128ms_v2 Low Priority;Standard_M128ms_v2;Standard;M128ms_v2;standardMSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;4,7177
+D48d v4 Low Priority;Standard_D48d_v4;Standard;D48d_v4;standardDDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;100;Windows;0,44057
+DC16s_v3 Low Priority;Standard_DC16s_v3;Standard;DC16s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;FALSE;100;Windows;0,69823
+E20s v5 Low Priority;Standard_E20s_v5;Standard;E20s_v5;standardESv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,19331
+D64s v4;Standard_D64s_v4;Standard;D64s_v4;standardDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;2,4752
+A5;Standard_A5;Standard;A5;standardA0_A7Family;TRUE;V1;x64;FALSE;FALSE;100;FALSE;FALSE;FALSE;FALSE;FALSE;2;null;100;Windows;0,17264
+M64ms Low Priority;Standard_M64ms;Standard;M64ms;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;5,6056
+L48s v3;Standard_L48s_v3;Standard;L48s_v3;standardLSv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;4,7073
+D64ls v5;Standard_D64ls_v5;Standard;D64ls_v5;standardDLSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;4,3758
+EC48as_v5 Low Priority;Standard_EC48as_v5;Standard;EC48as_v5;standardECASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;FALSE;FALSE;8;TRUE;100;Linux;0,45929
+D16lds v5;Standard_D16lds_v5;Standard;D16lds_v5;standardDLDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;100;Windows;1,1713
+E32as v5 Low Priority;Standard_E32as_v5;Standard;E32as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,27833
+D96 v5 Low Priority;Standard_D96_v5;Standard;D96_v5;standardDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,7066
+E16s v4;Standard_E16s_v4;Standard;E16s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,7735
+DC1s v2 Low Priority;Standard_DC1s_v2;Standard;DC1s_v2;standardDCSv2Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;null;null;null;null;1000;Linux;0,01547
+E32ds v5 Low Priority;Standard_E32ds_v5;Standard;E32ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,12307
+E64ds v5 Low Priority;Standard_E64ds_v5;Standard;E64ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;0,7163
+D16a v4/D16as v4 Low Priority;Standard_D16a_v4;Standard;D16a_v4;standardDAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;null;100;Linux;0,12363
+D64d v5 Low Priority;Standard_D64d_v5;Standard;D64d_v5;standardDDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,98913
+E32bds v5;Standard_E32bds_v5;Standard;E32bds_v5;standardEBDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,1044
+E16ds v5 Low Priority;Standard_E16ds_v5;Standard;E16ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,17888
+L48s v2;Standard_L48s_v2;Standard;L48s_v2;standardLSv2Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;4,3758
+D16 v4;Standard_D16_v4;Standard;D16_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;100;Windows;1,12723
+D48plds v5;Standard_D48plds_v5;Standard;D48plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;3,107
+M416ms v2 Low Priority;Standard_M416ms_v2;Standard;M416ms_v2;standardMSv2Family;FALSE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;40,898
+D32s v5 Low Priority;Standard_D32s_v5;Standard;D32s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,90194
+D11 v2/DS11 v2 - Expired;Standard_D11_v2_Promo;Standard;D11_v2_Promo;standardDv2PromoFamily;TRUE;V1;x64;FALSE;FALSE;210;FALSE;FALSE;FALSE;TRUE;FALSE;2;null;10;Linux;0,1274
+E20 v3/E20s v3 Low Priority;Standard_E20_v3;Standard;E20_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Linux;0,1937
+E96 v5;Standard_E96_v5;Standard;E96_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;4,641
+E8 v5 Low Priority;Standard_E8_v5;Standard;E8_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;4;TRUE;100;Linux;0,07735
+DC8s_v3;Standard_DC8s_v3;Standard;DC8s_v3;standardDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;FALSE;100;Linux;0,6188
+A1 v2;Standard_A1_v2;Standard;A1_v2;standardAv2Family;TRUE;V1;x64;TRUE;FALSE;100;FALSE;FALSE;TRUE;FALSE;FALSE;2;null;100;Windows;0,04485
+B4ms;Standard_B4ms;Standard;B4ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;FALSE;FALSE;4;TRUE;10;Linux;0,1365
+E32-16as_v4 Low Priority;Standard_E32-16as_v4;Standard;E32-16as_v4;standardEASv4Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,02557
+E32ps v5 Low Priority;Standard_E32ps_v5;Standard;E32ps_v5;standardEPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;0,897
+D16as v5;Standard_D16as_v5;Standard;D16as_v5;standardDASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,55809
+L16s Low Priority;Standard_L16s;Standard;L16s;standardLSFamily;FALSE;V1,V2;x64;TRUE;TRUE;180;TRUE;TRUE;FALSE;FALSE;FALSE;8;null;10;Linux;0,1898
+D3 v2/DS3 v2 Low Priority;Standard_D3_v2;Standard;D3_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;4;null;100;Windows;0,13962
+EC20ads_v5 Low Priority;Standard_EC20ads_v5;Standard;EC20ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;8;TRUE;100;Windows;0,70382
+E32 v5 Low Priority;Standard_E32_v5;Standard;E32_v5;standardEv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,02557
+E2s v4;Standard_E2s_v4;Standard;E2s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,09672
+D4as v5 Low Priority;Standard_D4as_v5;Standard;D4as_v5;standardDASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,106366
+M32ls;Standard_M32ls;Standard;M32ls;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;2,21
+E96-48ads v5;Standard_E96-48ads_v5;Standard;E96-48ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;4,9062
+D32pds v5 Low Priority;Standard_D32pds_v5;Standard;D32pds_v5;standardDPDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;0,871
+E4 v4 Low Priority;Standard_E4_v4;Standard;E4_v4;standardEv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;1000;Linux;0,038675
+E16as v5 Low Priority;Standard_E16as_v5;Standard;E16as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,13962
+D16s v5;Standard_D16s_v5;Standard;D16s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,6188
+G3/GS3 Low Priority;Standard_G3;Standard;G3;standardGFamily;FALSE;V1;x64;TRUE;FALSE;180;FALSE;FALSE;FALSE;FALSE;FALSE;4;null;10;Windows;0,741
+E64s v4;Standard_E64s_v4;Standard;E64s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;3,094
+E2ds v4 Low Priority;Standard_E2ds_v4;Standard;E2ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,070447
+NV24s v3 Low Priority;Standard_NV24s_v3;Standard;NV24s_v3;standardNVSv3Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;0,9347
+E4 v3/E4s v3 Low Priority;Standard_E4_v3;Standard;E4_v3;standardEv3Family;TRUE;V1;x64;TRUE;FALSE;160;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;10;Windows;0,0416
+E2ds v5 Low Priority;Standard_E2ds_v5;Standard;E2ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,070447
+D4a v4/D4as v4;Standard_D4a_v4;Standard;D4a_v4;standardDAv4Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;null;100;Windows;0,1547
+D8plds v5;Standard_D8plds_v5;Standard;D8plds_v5;standardDPLDSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Linux;0,2652
+E48bs v5;Standard_E48bs_v5;Standard;E48bs_v5;standardEBSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;4,2926
+L8s v2;Standard_L8s_v2;Standard;L8s_v2;standardLSv2Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;100;Windows;0,7293
+E104i v5;Standard_E104i_v5;Standard;E104i_v5;standardEIv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;5,5302
+D48 v5;Standard_D48_v5;Standard;D48_v5;standardDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;1,8564
+D4ds v5;Standard_D4ds_v5;Standard;D4ds_v5;standardDDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;100;Linux;0,18369
+L80s v3;Standard_L80s_v3;Standard;L80s_v3;standardLSv3Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;7,8455
+M64 Low Priority;Standard_M64;Standard;M64;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;3,2084
+E32-16ads v5 Low Priority;Standard_E32-16ads_v5;Standard;E32-16ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,32747
+E16-8s v4 Low Priority;Standard_E16-8s_v4;Standard;E16-8s_v4;standardESv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,51246
+EC96ads_v5 Low Priority;Standard_EC96ads_v5;Standard;EC96ads_v5;standardECADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;FALSE;FALSE;8;TRUE;10;Linux;1,079
+D64 v5 Low Priority;Standard_D64_v5;Standard;D64_v5;standardDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;0,49517
+D48ps v5 Low Priority;Standard_D48ps_v5;Standard;D48ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;1,209
+D4 v2/DS4 v2 Low Priority;Standard_D4_v2;Standard;D4_v2;standardDv2Family;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;8;null;10;Windows;0,078
+D48ds v4;Standard_D48ds_v4;Standard;D48ds_v4;standardDDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Linux;2,2048
+E4-2ds v4 Low Priority;Standard_E4-2ds_v4;Standard;E4-2ds_v4;standardEDSv4Family;TRUE;V1,V2;x64;TRUE;TRUE;195;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Windows;0,140205
+L16s v2 Low Priority;Standard_L16s_v2;Standard;L16s_v2;standardLSv2Family;FALSE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;4;TRUE;100;Windows;0,58357
+E16-8as v5 Low Priority;Standard_E16-8as_v5;Standard;E16-8as_v5;standardEASv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,13962
+E4pds v5;Standard_E4pds_v5;Standard;E4pds_v5;standardEPDSv5Family;TRUE;V2;Arm64;FALSE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;1;Windows;0,299
+E2ads v5 Low Priority;Standard_E2ads_v5;Standard;E2ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;2;TRUE;1000;Linux;0,020436
+DC48ads v5 Low Priority;Standard_DC48ads_v5;Standard;DC48ads_v5;standardDCADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;FALSE;FALSE;FALSE;8;TRUE;100;Windows;1,50007
+D64ps v5 Low Priority;Standard_D64ps_v5;Standard;D64ps_v5;standardDPSv5Family;TRUE;V2;Arm64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;1;Windows;1,599
+B20ms;Standard_B20ms;Standard;B20ms;standardBSFamily;TRUE;V1,V2;x64;FALSE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;0,741
+E32d v5;Standard_E32d_v5;Standard;E32d_v5;standardEDv5Family;TRUE;V1,V2;x64;TRUE;FALSE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;2,8067
+M64ms_v2 Low Priority;Standard_M64ms_v2;Standard;M64ms_v2;standardMSMediumMemoryv2Family;FALSE;V2;x64;TRUE;TRUE;null;FALSE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Linux;1,8187
+DC24ds_v3;Standard_DC24ds_v3;Standard;DC24ds_v3;standardDDCSv3Family;TRUE;V2;x64;TRUE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;8;FALSE;10;Linux;2,2048
+D8 v4;Standard_D8_v4;Standard;D8_v4;standardDv4Family;TRUE;V1,V2;x64;TRUE;FALSE;195;FALSE;FALSE;TRUE;TRUE;FALSE;4;null;100;Windows;0,56355
+E2pds v5;Standard_E2pds_v5;Standard;E2pds_v5;standardEPDSv5Family;TRUE;V2;Arm64;FALSE;TRUE;null;TRUE;TRUE;FALSE;TRUE;FALSE;2;TRUE;100;Linux;0,0897
+E16ads v5 Low Priority;Standard_E16ads_v5;Standard;E16ads_v5;standardEADSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;230;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Linux;0,16367
+E96ds v5 Low Priority;Standard_E96ds_v5;Standard;E96ds_v5;standardEDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;TRUE;TRUE;TRUE;TRUE;FALSE;8;TRUE;10;Windows;3,3683
+F2/F2s;Standard_F2;Standard;F2;standardFFamily;TRUE;V1;x64;TRUE;FALSE;210;FALSE;FALSE;TRUE;TRUE;FALSE;2;null;10;Windows;0,1495
+D48s v5 Low Priority;Standard_D48s_v5;Standard;D48s_v5;standardDSv5Family;TRUE;V1,V2;x64;TRUE;TRUE;null;FALSE;TRUE;TRUE;TRUE;FALSE;8;TRUE;100;Windows;1,35239
+M128 Low Priority;Standard_M128;Standard;M128;standardMSFamily;FALSE;V1,V2;x64;TRUE;TRUE;160;TRUE;TRUE;FALSE;TRUE;FALSE;8;TRUE;10;Windows;6,4168
